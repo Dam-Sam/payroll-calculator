@@ -1,0 +1,65 @@
+{
+    "year": 2025,
+    "cpp": {
+        "year": 2025,
+        "maximum_earnings": 71300.0,
+        "basic_exemption": 3500.0,
+        "pensionable_earnings": 67800.0,
+        "cpp_rate": 5.95,
+        "max_contribution_employee": 4034.1,
+        "max_contribution_self_employed": 8068.2
+    },
+    "ei": {
+        "year": 2025,
+        "maximum_earnings": 65700.0,
+        "rate": 1.64,
+        "maximum_employee_premium": 1077.48,
+        "maximum_employer_premium": 1508.47
+    },
+    "federal_tax": {
+        "bracket": [
+            "0.00",
+            "57375.01",
+            "114750.01",
+            "177882.01",
+            "253414.01"
+        ],
+        "rates": [
+            "0.1500",
+            "0.2050",
+            "0.2600",
+            "0.2900",
+            "0.3300"
+        ],
+        "constants": [
+            "0",
+            "3156",
+            "9467",
+            "14803",
+            "24940"
+        ]
+    },
+    "ontario_tax": {
+        "bracket": [
+            "0.00",
+            "52886.01",
+            "105775.01",
+            "150000.01",
+            "220000.01"
+        ],
+        "rates": [
+            "0.0505",
+            "0.0915",
+            "0.1116",
+            "0.1216",
+            "0.1316"
+        ],
+        "constants": [
+            "0",
+            "2168",
+            "4294",
+            "5794",
+            "7994"
+        ]
+    }
+}
